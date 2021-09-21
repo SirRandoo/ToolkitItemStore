@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <ToolkitCore.Models.ToolkitChatCommand>
+    <defName>Purchase</defName>
+    <commandText>buy</commandText>
+    <enabled>true</enabled>
+    <commandClass>ToolkitItemStore.CommandMethods.Purchase</commandClass>
+    <permissionRole>Viewer</permissionRole>
+  </ToolkitCore.Models.ToolkitChatCommand>
+</Defs>
